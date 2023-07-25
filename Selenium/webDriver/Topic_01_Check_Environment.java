@@ -7,7 +7,6 @@ import org.testng.Assert;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
-
 import java.util.concurrent.TimeUnit;
 
 public class Topic_01_Check_Environment {
